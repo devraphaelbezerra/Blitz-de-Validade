@@ -22,8 +22,8 @@ Este repositório contém o processo **Blitz de Validade**, desenvolvido no **Fl
 - Caso a validade esteja **vencida**, é gerado:
   - Um **registro da ocorrência**
   - Um **e-mail de alerta** direcionado ao **comprador da categoria correspondente**
-![image](https://github.com/user-attachments/assets/dd36c2c9-5213-4068-824a-362c4c03f121)
 
+![image](https://github.com/user-attachments/assets/dd36c2c9-5213-4068-824a-362c4c03f121)
 
 ---
 
@@ -37,6 +37,7 @@ Este repositório contém o processo **Blitz de Validade**, desenvolvido no **Fl
 ---
 
 ## 📡 Exemplo de Fluxo
+![image](https://github.com/user-attachments/assets/67d4004e-418f-4326-8d85-b29ae005f15e)
 
 1. **Escaneamento do Produto**  
    Código de Barras: `7891234567890`  
